@@ -4,3 +4,4 @@ matplotlib
 statsmodels
 plotly
 Prophet
+scikit-learn
