@@ -5,4 +5,7 @@ statsmodels
 plotly
 Prophet
 scikit-learn
-pystan
+spacy
+nltk
+ipywidgets
+contractions
