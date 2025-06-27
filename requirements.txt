@@ -9,3 +9,4 @@ spacy
 nltk
 ipywidgets
 contractions
+IPython
