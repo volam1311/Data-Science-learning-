@@ -10,3 +10,5 @@ nltk
 ipywidgets
 contractions
 IPython
+gensim
+seaborn
