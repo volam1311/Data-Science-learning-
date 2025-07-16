@@ -2,3 +2,6 @@ GoogleNews-vectors-negative300.bin.gz
 word_model.bin
 all_recipies.csv
 food_recipes.txt
+ecom.csv
+ecom.train
+ecom.test
