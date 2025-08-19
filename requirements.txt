@@ -12,3 +12,5 @@ contractions
 IPython
 gensim
 seaborn
+tensorflow
+tensorflow-metal
